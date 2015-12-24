@@ -1,0 +1,47 @@
+#maindiv{
+    border: 1px solid;
+    width: 785px;
+    height: 310px;
+background-color: lightgray;
+}
+#users{
+    height:249px;
+    padding-right:15px;
+    border-right: 1px solid;
+    text-align: center;
+}
+#section{
+    border: 1px solid;
+    height: 200px;
+    /*width: 600px;*/
+    margin-bottom: 12px;
+    /*margin-left: -89px;*/
+}
+
+#sendbtn {
+    /*width: 95px;*/
+    /*margin-left: 30px*/
+}
+.div1 {
+    margin-bottom: 5px;
+    height: 35px;
+    border: 1px solid;
+    padding: 0px;
+}
+#hdngs{
+    border: 1px solid;
+    background-color: lightblue;
+}
+.txtarea{
+    width: 20px;
+}
+/*.form-control {*/
+    /*width: 485px;*/
+    /*margin-left: -84px*/
+/*}*/
+#names{
+    text-align: left;
+}
+.padding-0{
+    padding: 0px;
+}
